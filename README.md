@@ -23,12 +23,12 @@ Computer Science and Mathematics background with many hours in Data Science.
 ```bash
 paloma@st-olaf:~$ whoami
 > Paloma Guth Kronbauer
-> B.A. in Computer Science & Mathematics (Expected May 2026)
+> B.A. in Computer Science & Mathematics with a concentration in Statistics & Data Science (Expected May 2026)
 
 paloma@st-olaf:~$ cat goals.txt
 > 1. Graduate St. Olaf
 > 2. Move back to Brazil 
-> 3. Keep breaking (and fixing)
+> 3. Keep breaking (and fixing) stuff
 
 paloma@st-olaf:~$ coffee --status
 > [████████████████████] 100% (Finals mode)
