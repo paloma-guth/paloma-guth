@@ -35,7 +35,7 @@ paloma@st-olaf:~$ coffee --status
 ```
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -59,16 +59,15 @@ paloma@st-olaf:~$ coffee --status
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📊 GitHub Analysis
+### GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paloma-guth&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paloma-guth&layout=compact&theme=tokyonight&hide_border=true" width="43%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paloma-guth&theme=tokyonight&hide_border=true&v=1" width="48%" alt="Sequência de Contribuições" />
 </p>
 
 ---
 
-### 🔗 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/paloma-guth-kronbauer/](https://www.linkedin.com/in/paloma-guth-kronbauer-180237301/))
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />]([https://seupontodev.vercel.app](https://paloma-guth.github.io/portfolio/))
+### System Access
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paloma-guth-kronbauer-180237301/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://paloma-guth.github.io/portfolio/)
